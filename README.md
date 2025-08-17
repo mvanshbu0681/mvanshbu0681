@@ -76,18 +76,6 @@
 
 ---
 
-## 📌 Projects (curated)
-> Add your repo links below once public. These cards update automatically.
-
-<p align="center">
-  <!-- Replace owner/repo with yours (e.g., mvanshbu0681/social-media-app) -->
-  <a href="https://github.com/mvanshbu0681/social-media-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mvanshbu0681&repo=social-media-app&theme=transparent&hide_border=true" alt="Social Media App">
-  </a>
-  <a href="https://github.com/mvanshbu0681/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mvanshbu0681&repo=portfolio&theme=transparent&hide_border=true" alt="Portfolio">
-  </a>
-</p>
 
 <details>
 <summary><b>Project notes</b> (click to expand)</summary>
