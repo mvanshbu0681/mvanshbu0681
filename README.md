@@ -2,7 +2,7 @@
 
 <!-- Hero -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2500&pause=800&center=true&vCenter=true&width=800&lines=Hi%F0%9F%91%8B+I'm+Vansh+Mehta;Full-stack+Developer;2nd-year+@+Bennett+University;I+build+fast%2C+usable+web+%26+mobile+apps" alt="Typing intro">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2500&pause=800&center=true&vCenter=true&width=800&lines=Hi%F0%9F%91%8B+I'm+Vansh+Mehta;Full-stack+Developer;3rd-year+@+Bennett+University;I+build+fast%2C+usable+web+%26+mobile+apps" alt="Typing intro">
 </p>
 
 <!-- Quick links -->
