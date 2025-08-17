@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm **Vansh Mehta**
 
-**Full-stack Developer • 2nd-year @ Bennett University**  
+**Full-stack Developer • 3rd-year @ Bennett University**  
 Building performant web & mobile experiences with modern JS stacks.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vansh%20Mehta-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vansh-mehta-8867b8275/)
@@ -35,13 +35,13 @@ Building performant web & mobile experiences with modern JS stacks.
 `HTML` · `CSS` · `React` · `Next.js` · `Bootstrap` · `Tailwind CSS` · `EJS`
 
 ### Backend
-`Node.js` · `Express` · `NestJS`
+`Node.js` · `Express` · `NestJS`,`FastApi`
 
 ### Mobile
 `React Native`
 
 ### Databases & Caching
-`MySQL` · `PostgreSQL` · `Redis`
+`MySQL` · `PostgreSQL` · `Redis`,`MongoDB`
 
 ### Tools & Platforms
 `Git & GitHub` · `Docker` · `Postman` · `Figma`
