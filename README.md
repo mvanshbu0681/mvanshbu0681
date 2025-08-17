@@ -76,10 +76,6 @@
 
 ---
 
-
-<details>
-<summary><b>Project notes</b> (click to expand)</summary>
-
 - **Social Media App:** Next.js/React + Node/NestJS, PostgreSQL/Redis, file uploads, feed algo v1, WebSocket/Socket.IO for chat.
 - **Portfolio:** modern, accessible, mobile-first site with case studies and contact.
 - **(Optional)**: Add a small CLI tool or API microservice to show breadth.
