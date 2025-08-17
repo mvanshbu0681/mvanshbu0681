@@ -1,45 +1,87 @@
-<h1 align="center">Hi 👋, I'm Vansh Mehta</h1>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<h3 align="center">Hi there! I'm Vansh Mehta, a second-year student at Bennett University.
+<!-- Profile README: Vansh Mehta -->
 
-My Passion: Technology and innovation fuel my drive!
+<div align="center">
 
-Skills I Bring:
+# 👋 Hi, I'm **Vansh Mehta**
 
-Programming Languages: C, C++, Python
-Web Development: HTML, CSS, JavaScript
-Frameworks & Libraries: Node.js, Express, React, EJS ️
-UI/UX Design: Bootstrap, Flexbox, Grid
-</h3>
+**Full-stack Developer • 2nd-year @ Bennett University**  
+Building performant web & mobile experiences with modern JS stacks.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vansh%20Mehta-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vansh-mehta-8867b8275/)
+[![X](https://img.shields.io/badge/Follow-@vanshmehta22914-111?logo=x&logoColor=white)](https://twitter.com/vanshmehta22914)
+[![Instagram](https://img.shields.io/badge/Instagram-@mvansh_2005-E4405F?logo=instagram&logoColor=white)](https://instagram.com/mvansh_2005)
+[![Email](https://img.shields.io/badge/Email-mvansh705%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:mvansh705@gmail.com)
 
+</div>
 
+---
 
-- 🔭 I’m currently working on **Social Media app**
+## 🔎 About Me
 
-- 🌱 I’m currently learning **nest.js, Next.js, React, React native**
+- 🔭 Currently building a **Social Media App** (full-stack).
+- 🌱 Learning **NestJS**, **Next.js**, **React**, **React Native**.
+- 💬 Happy to chat about any of the technologies below.
+- 📫 Reach me: **mvansh705@gmail.com**
+- 🤝 Open to **internships**, collabs, and interesting OSS contributions.
 
-- 💬 Ask me about **Any of the technologies.**
+---
 
-- 📫 How to reach me **mvansh705@gmail.com**
+## 🧰 Tech Stack
 
-## 🚀 Know About My Experiences
+### Languages
+`C` · `C++` · `Python` · `JavaScript`
 
-🔗 [Click here to view my experience document](https://drive.google.com/file/d/10IaM3D0BiZ8xH0aiE72Efyu4MsQhHZ3h/view?usp=drive_link)
+### Frontend
+`HTML` · `CSS` · `React` · `Next.js` · `Bootstrap` · `Tailwind CSS` · `EJS`
 
+### Backend
+`Node.js` · `Express` · `NestJS`
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@vanshmehta22914" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@vanshmehta22914" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vansh-mehta-8867b8275" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vansh-mehta-8867b8275" height="30" width="40" /></a>
-<a href="https://instagram.com/mvansh_2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mvansh_2005" height="30" width="40" /></a>
-</p>
+### Mobile
+`React Native`
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+### Databases & Caching
+`MySQL` · `PostgreSQL` · `Redis`
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mvanshbu0681&show_icons=true&locale=en&layout=compact" alt="mvanshbu0681" /></p>
+### Tools & Platforms
+`Git & GitHub` · `Docker` · `Postman` · `Figma`
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mvanshbu0681&show_icons=true&locale=en" alt="mvanshbu0681" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mvanshbu0681&" alt="mvanshbu0681" /></p>
+## 📄 Experience / Resume
+🔗 **[View my experience document](https://drive.google.com/file/d/10IaM3D0BiZ8xH0aiE72Efyu4MsQhHZ3h/view?usp=drive_link)**
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/mvanshbu0681">
+  <img alt="Vansh's GitHub Stats" height="165" src="https://github-readme-stats.vercel.app/api?username=mvanshbu0681&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=transparent" />
+</a>
+<a href="https://github.com/mvanshbu0681">
+  <img alt="Top Languages" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvanshbu0681&layout=compact&hide_border=true&theme=transparent" />
+</a>
+
+<a href="https://github.com/mvanshbu0681">
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=mvanshbu0681&hide_border=true&theme=transparent" />
+</a>
+
+</div>
+
+---
+
+## 🧩 Highlights
+
+- Strong foundation in **DSA** and **core programming** (C/C++).
+- Comfortable with **REST APIs**, **auth**, and **state management**.
+- Focused on clean architecture, reusability, and accessible UI.
+
+---
+
+## 🤙 Let’s Connect
+
+If you’re building something cool—or looking for an intern who ships—**drop me a line**.  
+I reply fastest on **email** or **LinkedIn**.
+
