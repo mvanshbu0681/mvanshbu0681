@@ -29,12 +29,12 @@
 
 ## 👨‍💻 About Me
 - 🔭 Building a **Social Media App** (full-stack).
-- 🌱 Learning **NestJS**, **Next.js**, **React**, **React Native**.
+- 🌱 Learning **Next.js**, **React**, **React Native**.
 - 💬 Ask me about **JS/TS, React, Node, Express, SQL**, and **UI/UX** basics.
 - 🎯 I care about **performance, clean architecture, and accessible UI**.
 - 🤝 Open to **internships** & **collabs**.
 
-> 2nd-year **B.Tech (CSE)** student at **Bennett University**.
+> 3rd-year **B.Tech (CSE)** student at **Bennett University**.
 
 ---
 
